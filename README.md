@@ -1,6 +1,7 @@
 # _MEAN App_
 
 #### Project implementing MongoDB, Express, Angular2, & NodeJS.
+#### Please see today's project log [here]()
 #### Author: Sarah Lindmar
 
 ## Description
@@ -12,7 +13,7 @@ I am interested in interning with a company that is using a MEAN stack. This app
 * `cd` into the desktop from the terminal.
 * Git clone the repository [here](https://github.com/srhcrete/mean--todo-app).
 * `cd` into the project directory from the terminal.
-  `cd mean-app`
+  `cd mean-todo-app`
 * Once you are in the project directory, run `npm install`
 * Install Mongoose and run it
 * `ng build` && `ng serve` for front end work.
@@ -23,9 +24,10 @@ I am interested in interning with a company that is using a MEAN stack. This app
 
 _For further instructions please visit the Angular-CLI [README.md](https://github.com/srhcrete/mean-todo-app/tree/master/set-up)._
 
-## Features     
+## Future Features     
 
 * Filter tasks list by priority.
+* Log tasks for career development.
 
 ## What technologies are used
 * **NodeJS**: open-source Javascript runtime environment built on Chrome's V8 Javascript engine.
