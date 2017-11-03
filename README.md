@@ -1,27 +1,41 @@
-# MeanTodoApp
+# _MEAN App_
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+#### Independent project implementing MongoDB, Express, Angular2, & NodeJS.
+#### Author: Sarah Lindmar
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_A company I am interested in interning with is using a MEAN stack. This app will help me keep track of my career development goals and is also practice for building an app using MongoDB, Express, Angular2, and NodeJS. This application is a todo list for prioritizing and organizing my tasks and goals to prepare for graduation and a career as a developer._
 
-## Code scaffolding
+## Setup and Installation Requirements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* `cd` into the desktop from the terminal.
+* Git clone the repository [here](https://github.com/srhcrete/mean--todo-app).
+* `cd` into the project directory from the terminal.
 
-## Build
+  ```
+  cd mean-app
+  ```
+* Once you are in the project directory, run `npm install`
+* Install Mongoose and run it
+* `ng build` && `ng serve` for front end work.
+* `ng build` && `node index.js` for front end + back end work.
+* For front-end work access the app at `http://localhost:4200`
+* for front-end and back-end, go to `http://localhost:3000`
+* Use the page in the browser.  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+_For further instructions please visit the Angular-CLI [README.md](https://github.com/srhcrete/mean-todo-app/set-up/README.md)._
 
-## Running unit tests
+## Features     
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Filter tasks list by priority.
 
-## Running end-to-end tests
+## Support and Contact Details
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+_If you have any comments or suggestions please make a contribution to my repository_
 
-## Further help
+### License
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+*This project is licensed under the MIT license*
+
+Copyright (c) 2017 **_Sarah Lindmar_**
