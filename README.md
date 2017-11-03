@@ -21,7 +21,7 @@ I am interested in interning with a company that is using a MEAN stack. This app
 * for front-end and back-end, go to `http://localhost:3000`
 * Use the page in the browser.  
 
-_For further instructions please visit the Angular-CLI [README.md](https://github.com/srhcrete/mean-todo-app/blob/master/README.md)._
+_For further instructions please visit the Angular-CLI [README.md](https://github.com/srhcrete/mean-todo-app/tree/master/set-up)._
 
 ## Features     
 
