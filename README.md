@@ -28,10 +28,10 @@ _For further instructions please visit the Angular-CLI [README.md](https://githu
 * Filter tasks list by priority.
 
 ## What technologies are used
-**NodeJS**: open-source Javascript runtime environment built on Chrome's V8 Javascript engine._
-**MongoDB**: Database Management System._
-**Express**: Web framework used in nodes apps for rest requests._
-**Angular2**: component based framework.
+* **NodeJS**: open-source Javascript runtime environment built on Chrome's V8 Javascript engine.
+* **MongoDB**: Database Management System.
+* **Express**: Web framework used in nodes apps for rest requests.
+* **Angular2**: component based framework.
 
 ## Support and Contact Details
 
