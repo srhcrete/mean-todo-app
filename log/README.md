@@ -19,6 +19,7 @@ I am interested in interning with a company that is using a MEAN stack. This app
 ## MEAN stack resources found today:     
 
 * [MEAN app with Angular2 and Angular-CLI](https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli).
+  ![mean-app](https://github.com/srhcrete/mean-todo-app/tree/master/log/images/angular-cli.png)
 * [Hackernoon build a real-time MEAN app with Angular-CLI and socket-io](https://hackernoon.com/build-real-time-app-with-mean2-angular-cli-and-socket-io-cedf1dc02fec).
 * [Angular tutorial: Tour of Heroes](https://angular.io/tutorial)
 * [Treehouse guide to installing MongoDB on Mac](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
