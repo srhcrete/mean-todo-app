@@ -1,11 +1,11 @@
 # _MEAN App_
 
-#### Independent project implementing MongoDB, Express, Angular2, & NodeJS.
+#### Project implementing MongoDB, Express, Angular2, & NodeJS.
 #### Author: Sarah Lindmar
 
 ## Description
 
-I am interested in interning with a company that is using a MEAN stack. This app will help me keep track of my career development goals and also practice building an app using MongoDB, Express, Angular2, and NodeJS. This application is a todo list for prioritizing and organizing my tasks and goals to prepare for graduation and a career as a developer.
+I am interested in interning with a company that is using a MEAN stack. This app will help me keep track of my career development goals and also practice building an app using MongoDB, Express, Angular2, and NodeJS. This application is a todo list for prioritizing and organizing my tasks and goals to prepare for graduation and a career as a developer. More detailed steps for this project setup can be found in this [article](https://hackernoon.com/build-real-time-app-with-mean2-angular-cli-and-socket-io-cedf1dc02fec) by Dassi Orleando.
 
 ## Setup and Installation Requirements
 
@@ -26,6 +26,12 @@ _For further instructions please visit the Angular-CLI [README.md](https://githu
 ## Features     
 
 * Filter tasks list by priority.
+
+## What technologies are used
+**NodeJS**: open-source Javascript runtime environment built on Chrome's V8 Javascript engine.
+**MongoDB**: Database Management System.
+**Express**: Web framework used in nodes apps for rest requests.
+**Angular2**: component based framework.
 
 ## Support and Contact Details
 
