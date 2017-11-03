@@ -1,0 +1,13 @@
+/*CSS file: gistology app*/
+.content{
+    margin: 2em auto;
+}
+
+md-card-title{
+    text-align: center;
+}
+.footer{
+    position: relative;
+    margin-top: 50px;
+    bottom: 0;
+}
