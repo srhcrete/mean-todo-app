@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import '~angular2-toaster/toaster.css';
+
+body{
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+.spacer {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+}
+.toast-top-right{
+    top: 65px !important;
+    right: 0 !important;
+}/* You can add global styles to this file, and also import other style files */
