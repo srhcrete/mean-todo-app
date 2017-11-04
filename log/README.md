@@ -3,7 +3,7 @@
 #### MEAN-Todo-App Project implementing MongoDB, Express, Angular2, & NodeJS.
 #### Author: Sarah Lindmar
 
-## Career Development Goals and Projects to add to the app:
+## Career Development Goals:
 
 * Learn MEAN stack project development to prepare for internship at Bent.
 * Get headshot taken for portfolio.

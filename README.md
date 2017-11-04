@@ -1,7 +1,7 @@
 # _MEAN App_
 
 #### Project implementing MongoDB, Express, Angular2, & NodeJS.
-#### Please see today's project log [here]()
+#### Please see today's project log [here](https://github.com/srhcrete/mean-todo-app/tree/master/log)
 #### Author: Sarah Lindmar
 
 ## Description
